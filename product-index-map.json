@@ -1,9 +1,11 @@
-{
-   "Adobe After Effects":[
-      {
-         "after-effects":{
-            "path-prefix":"/after-effects/"
+[
+   {
+      "productName":"Adobe After Effects",
+      "productIndices":[
+         {
+            "indexName":"after-effects",
+            "indexPathPrefix":"/after-effects/"
          }
-      }
-   ]
-}
+      ]
+   }
+]
