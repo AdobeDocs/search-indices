@@ -1,9 +1,9 @@
 {
-    'Adobe After Effects': [
-        {
-          'after-effects':{
-            'path-prefix': '/after-effects/'
-          }
-        }
-      ],
+   "Adobe After Effects":[
+      {
+         "after-effects":{
+            "path-prefix":"/after-effects/"
+         }
+      }
+   ]
 }
