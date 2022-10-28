@@ -1,4 +1,4 @@
-window.AIO_ALGOLIA_INDEX_ALL = {
+window.SEARCH_PRODUCT_INDEX_MAP = {
     'Adobe After Effects': [
         {
           'after-effects':{
