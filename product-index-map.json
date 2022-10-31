@@ -34,19 +34,19 @@
             "indexPathPrefix":"/photoshop/"
          },
          {
-            "indexName":"uxp_photoshop",
+            "indexName":"uxp-photoshop",
             "indexPathPrefix":"/photoshop/uxp/2022/"
          },
          {
-            "indexName":"uxp_photoshop_2021",
+            "indexName":"uxp-photoshop-2021",
             "indexPathPrefix":"/photoshop/uxp/2021/"
          },
          {
-            "indexName":"cis_photoshop_api_docs",
+            "indexName":"cis-photoshop-api-docs",
             "indexPathPrefix":"/photoshop/photoshop-api-docs/"
          },
          {
-            "indexName":"photoshop_api",
+            "indexName":"photoshop-api",
             "indexPathPrefix":"/photoshop/api/"
          }
       ]
