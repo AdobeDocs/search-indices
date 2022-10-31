@@ -50,5 +50,18 @@
             "indexPathPrefix":"/photoshop/api/"
          }
       ]
+   },
+    {
+      "productName":"Adobe Substance 3D",
+      "productIndices":[
+         {
+            "indexName":"substance-3d-automation",
+            "indexPathPrefix":"/substance-3d-automation/docs/"
+         },
+         {
+            "indexName":"franklin-substance-3d-automation",
+            "indexPathPrefix":"/substance-3d-automation/"
+         }
+      ]
    }
 ]
