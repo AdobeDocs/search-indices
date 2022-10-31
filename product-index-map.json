@@ -63,5 +63,22 @@
             "indexPathPrefix":"/substance-3d-automation/"
          }
       ]
+   },
+   {
+      "productName":"Adobe I/O",
+      "productIndices":[
+         {
+            "indexName":"adobe-io-events",
+            "indexPathPrefix":"/events/docs/"
+         },
+         {
+            "indexName":"adobe-io-runtime",
+            "indexPathPrefix":"/runtime/docs"
+         },
+         {
+            "indexName":"franklin-adobe-io-runtime",
+            "indexPathPrefix":"/runtime/"
+         }
+      ]
    }
 ]
