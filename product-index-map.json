@@ -7,5 +7,48 @@
             "indexPathPrefix":"/after-effects/"
          }
       ]
+   },
+   {
+      "productName":"Adobe Analytics",
+      "productIndices":[
+         {
+            "indexName":"analytics-2.0-apis",
+            "indexPathPrefix":"/analytics-apis/docs/2.0/"
+         }
+      ]
+   },
+   {
+      "productName":"Adobe Animate",
+      "productIndices":[
+         {
+            "indexName":"animate",
+            "indexPathPrefix":"/animate/"
+         }
+      ]
+   },
+   {
+      "productName":"Adobe Photoshop",
+      "productIndices":[
+         {
+            "indexName":"photoshop",
+            "indexPathPrefix":"/photoshop/"
+         },
+         {
+            "indexName":"uxp_photoshop",
+            "indexPathPrefix":"/photoshop/uxp/2022/"
+         },
+         {
+            "indexName":"uxp_photoshop_2021",
+            "indexPathPrefix":"/photoshop/uxp/2021/"
+         },
+         {
+            "indexName":"cis_photoshop_api_docs",
+            "indexPathPrefix":"/photoshop/photoshop-api-docs/"
+         },
+         {
+            "indexName":"photoshop_api",
+            "indexPathPrefix":"/photoshop/api/"
+         },
+      ]
    }
 ]
