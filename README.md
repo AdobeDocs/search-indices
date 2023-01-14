@@ -27,6 +27,52 @@ GATSBY_ALGOLIA_SEARCH_API_KEY=[api key here]
 
 ## Indexing 
 
+### Configure product-index map
+
+https://github.com/AdobeDocs/search-indices/blob/main/product-index-map.json
+
+Format the index with it's relevant pathPrefix like so:
+
+```
+{               
+ "indexName": "photoshop",
+ "indexPathPrefix": "/photoshop/"
+}
+```
+
+Find the relevant Product Name and add the index object to the productIndices array like so:
+
+
+```
+{
+        "productName": "Adobe Photoshop",
+        "productIndices": [
+            {
+                "indexName": "photoshop",
+                "indexPathPrefix": "/photoshop/"
+            },
+            {
+                "indexName": "uxp-photoshop",
+                "indexPathPrefix": "/photoshop/uxp/2022/"
+            },
+            {
+                "indexName": "uxp-photoshop-2021",
+                "indexPathPrefix": "/photoshop/uxp/2021/"
+            },
+            {
+                "indexName": "cis-photoshop-api-docs",
+                "indexPathPrefix": "/photoshop/photoshop-api-docs/"
+            },
+            {
+                "indexName": "photoshop-api",
+                "indexPathPrefix": "/photoshop/api/"
+            }
+        ]
+    },
+```
+
+If relevant product is missing add it to the top array.
+
 ### Franklin
 Franklin indexer: https://github.com/adobe/adobe-io-website/tree/algolia-indexing-fix/.algolia
 
