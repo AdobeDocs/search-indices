@@ -194,5 +194,15 @@
                 "indexPathPrefix": "/audience-manager/"
             }
         ]
+    },
+    {
+        "productName": "Adobe Experience Platform",
+        "productIndices": [
+            {
+                "indexName": "aep-mobile-sdkdocs",
+                "indexPathPrefix": "/client-sdks/"
+            }
+        ]
     }
+        
 ]
