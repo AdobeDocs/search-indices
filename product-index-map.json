@@ -216,6 +216,19 @@
                 "indexPathPrefix": "/embed-sdk/docs/"
             }
         ]
+    },
+    {
+        "productName": "Adobe Stock",
+        "productIndices": [
+            {
+                "indexName": "stock",
+                "indexPathPrefix": "/stock/"
+            },
+            {
+                "indexName": "stock-api-docs",
+                "indexPathPrefix": "/stock/docs/"
+            }
+        ]
     }
         
 ]
