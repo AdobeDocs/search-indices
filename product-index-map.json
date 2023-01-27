@@ -203,6 +203,19 @@
                 "indexPathPrefix": "/client-sdks/"
             }
         ]
+    },
+    {
+        "productName": "Adobe Express",
+        "productIndices": [
+            {
+                "indexName": "create-embed-sdk",
+                "indexPathPrefix": "/embed-sdk/"
+            },
+            {
+                "indexName": "cc-everywhere",
+                "indexPathPrefix": "/embed-sdk/docs/"
+            }
+        ]
     }
         
 ]
