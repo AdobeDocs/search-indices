@@ -1,13 +1,13 @@
 # search-indices
 Standalone solution for search index, product, and path-prefix mapping
 
-#developer.adobe.com search guide Jan 2023:
+#developer.adobe.com search guide Feb 2023:
 
 ## Enable search
 
-### Franklin
+### Franklin & Gatsby [aio-theme@4.7.11+]
 
-Our Franklin app points search iframe source to:
+Our app points search iframe source to:
  
 https://developer.adobe.com/search-frame/ on prod,
 https://developer-stage.adobe.com/search-frame/ on stage, and http://localhost:8000/ when running locally.
@@ -15,7 +15,7 @@ https://developer-stage.adobe.com/search-frame/ on stage, and http://localhost:8
 The iframed instance should be running https://github.com/AdobeDocs/search-iframe with enabled search using the Gatsby config in the next section.
 <br><br>Note: The aio-theme layout component checks for `/search-frame/` pathPrefix to toggle the search iframe ready layout.
 
-### Gatsby
+### Legacy Gatsby and the search-frame only
 
 Add relevant [app id] and [api key] from Algolia to the repo's .env file
 
