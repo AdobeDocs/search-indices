@@ -464,18 +464,5 @@
                 "indexPathPrefix": "/xmp/docs/"
             }
         ]
-    },
-    {
-        "productName": "Adobe Developer Distribution",
-        "productIndices": [
-            {
-                "indexName": "franklin-developer-distribute",
-                "indexPathPrefix": "/developer-distribution/creative-cloud/"
-            },
-            {
-                "indexName": "developer-distribute",
-                "indexPathPrefix": "/developer-distribution/creative-cloud/docs/"
-            }
-        ]
     }
 ]
