@@ -108,6 +108,14 @@
             {
                 "indexName": "franklin-commerce",
                 "indexPathPrefix": "/commerce/"
+            },
+            {
+                "indexName": "commerce-testing",
+                "indexPathPrefix": "/commerce/testing/"
+            },
+            {
+                "indexName": "commerce-events",
+                "indexPathPrefix": "/commerce/events/"
             }
         ]
     },
