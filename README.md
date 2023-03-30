@@ -77,7 +77,7 @@ If relevant product is missing add it to the top array.
 Franklin indexer: https://github.com/adobe/adobe-io-website/tree/algolia-indexing-fix/.algolia
 
 ### Gatsby
-The aio-theme indexer triggers during `yarn dev` and `yarn build` and beahves differently based on .env configuration.
+The aio-theme indexer triggers during `yarn build` and behaves differently based on .env configuration.
 
 Add relevant [app id] and [api WRITE key] from Algolia to the repo's .env file and the following variables
 
