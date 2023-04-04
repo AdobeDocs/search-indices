@@ -485,5 +485,14 @@
                 "indexPathPrefix": "/developer-distribution/creative-cloud/docs/"
             }
         ]
+    },
+    {
+        "productName": "UI Extensibility",
+        "productIndices": [
+            {
+                "indexName": "uix",
+                "indexPathPrefix": "/uix/docs/"
+            }
+        ]
     }
 ]
