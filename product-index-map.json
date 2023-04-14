@@ -52,6 +52,10 @@
                 "indexPathPrefix": "/experience-cloud/cloud-manager/"
             },
             {
+                "indexName": "experience-manager-apis",
+                "indexPathPrefix": "/experience-cloud/experience-manager-apis/"
+            },
+            {
                 "indexName": "adobe-assurance-public-apis",
                 "indexPathPrefix": "/adobe-assurance-public-apis/"
             }
