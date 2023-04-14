@@ -50,6 +50,10 @@
             {
                 "indexName": "cloudmanager-api-docs",
                 "indexPathPrefix": "/experience-cloud/cloud-manager/"
+            },
+            {
+                "indexName": "adobe-assurance-public-apis",
+                "indexPathPrefix": "/adobe-assurance-public-apis/"
             }
         ]
     },
