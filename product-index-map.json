@@ -502,5 +502,14 @@
                 "indexPathPrefix": "/uix/docs/"
             }
         ]
+    },
+    {
+        "productName": "Adobe Status",
+        "productIndices": [
+            {
+                "indexName": "adobe-status",
+                "indexPathPrefix": "/adobe-status/"
+            }
+        ]
     }
 ]
