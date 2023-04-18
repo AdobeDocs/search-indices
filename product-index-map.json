@@ -407,7 +407,15 @@
             {
                 "indexName": "uxp-indesign",
                 "indexPathPrefix": "/indesign/uxp/"
-            }
+            },
+            {
+                "indexName": "uxp-indesign-18-uxp",
+                "indexPathPrefix": "/indesign/uxp/reference/"
+            },
+            {
+                "indexName": "indesign-18-dom",
+                "indexPathPrefix": "/indesign/dom/"
+            }, 
         ]
     },
     {
