@@ -369,7 +369,7 @@
                 "indexPathPrefix": "/express-add-ons/"
             },
             {
-                "indexName": "/express-add-ons-docs/",
+                "indexName": "express-add-ons-docs",
                 "indexPathPrefix": "/express-add-ons/docs/"
             }
         ]
