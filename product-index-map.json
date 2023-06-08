@@ -363,6 +363,14 @@
             {
                 "indexName": "cc-everywhere",
                 "indexPathPrefix": "/embed-sdk/docs/"
+            },
+            {
+                "indexName": "express-add-ons",
+                "indexPathPrefix": "/express-add-ons/"
+            },
+            {
+                "indexName": "/express-add-ons-docs/",
+                "indexPathPrefix": "/express-add-ons/docs/"
             }
         ]
     },
