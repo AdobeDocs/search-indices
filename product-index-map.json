@@ -535,5 +535,14 @@
                 "indexPathPrefix": "/adobe-status/"
             }
         ]
+    },
+    {
+        "productName": "AIO THEME EXAMPLE ONLY",
+        "productIndices": [
+            {
+                "indexName": "example",
+                "indexPathPrefix": "/example/"
+            }
+        ]
     }
 ]
