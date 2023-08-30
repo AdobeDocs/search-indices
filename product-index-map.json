@@ -126,10 +126,6 @@
                 "indexPathPrefix": "/commerce/testing/"
             },
             {
-                "indexName": "commerce-events",
-                "indexPathPrefix": "/commerce/events/"
-            },
-            {
                 "indexName": "commerce-extensibility",
                 "indexPathPrefix": "/commerce/extensibility/"
             }
