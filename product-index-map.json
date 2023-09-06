@@ -357,20 +357,24 @@
         "productName": "Adobe Express",
         "productIndices": [
             {
+                "indexName": "express-for-developers",
+                "indexPathPrefix": "/express/"
+            },
+            {
                 "indexName": "create-embed-sdk",
-                "indexPathPrefix": "/embed-sdk/"
+                "indexPathPrefix": "/express/embed-sdk/"
             },
             {
                 "indexName": "cc-everywhere",
-                "indexPathPrefix": "/embed-sdk/docs/"
+                "indexPathPrefix": "/express/embed-sdk/docs/"
             },
             {
                 "indexName": "express-add-ons",
-                "indexPathPrefix": "/express-add-ons/"
+                "indexPathPrefix": "/express/add-ons/"
             },
             {
                 "indexName": "express-add-ons-docs",
-                "indexPathPrefix": "/express-add-ons/docs/"
+                "indexPathPrefix": "/express/add-ons/docs/"
             }
         ]
     },
