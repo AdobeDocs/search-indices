@@ -392,15 +392,6 @@
         ]
     },
     {
-        "productName": "Adobe Fonts",
-        "productIndices": [
-            {
-                "indexName": "fonts",
-                "indexPathPrefix": "/fonts/"
-            }
-        ]
-    },
-    {
         "productName": "Adobe Illustrator",
         "productIndices": [
             {
