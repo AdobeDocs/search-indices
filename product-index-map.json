@@ -66,15 +66,6 @@
         ]
     },
     {
-        "productName": "Adobe Camera Raw",
-        "productIndices": [
-            {
-                "indexName": "camera-raw",
-                "indexPathPrefix": "/camera-raw/"
-            }
-        ]
-    },
-    {
         "productName": "Adobe Commerce",
         "productIndices": [
             {
