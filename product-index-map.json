@@ -1,538 +1,559 @@
 [
-    {
-        "productName": "Adobe After Effects",
-        "productIndices": [
-            {
-                "indexName": "after-effects",
-                "indexPathPrefix": "/after-effects/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Analytics",
-        "productIndices": [
-            {
-                "indexName": "analytics-2.0-apis",
-                "indexPathPrefix": "/analytics-apis/docs/2.0/"
-            },
-            {
-                "indexName": "analytics-1.4-apis",
-                "indexPathPrefix": "/analytics-apis/docs/1.4/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Animate",
-        "productIndices": [
-            {
-                "indexName": "animate",
-                "indexPathPrefix": "/animate/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Audition",
-        "productIndices": [
-            {
-                "indexName": "audition",
-                "indexPathPrefix": "/audition/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Bridge",
-        "productIndices": [
-            {
-                "indexName": "bridge",
-                "indexPathPrefix": "/bridge/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Cloud Manager",
-        "productIndices": [
-            {
-                "indexName": "cloudmanager-api-docs",
-                "indexPathPrefix": "/experience-cloud/cloud-manager/"
-            },
-            {
-                "indexName": "experience-manager-apis",
-                "indexPathPrefix": "/experience-cloud/experience-manager-apis/"
-            },
-            {
-                "indexName": "adobe-assurance-public-apis",
-                "indexPathPrefix": "/adobe-assurance-public-apis/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Commerce",
-        "productIndices": [
-            {
-                "indexName": "commerce-marketplace",
-                "indexPathPrefix": "/commerce/marketplace/"
-            },
-            {
-                "indexName": "commerce-contributor",
-                "indexPathPrefix": "/commerce/contributor/"
-            },
-            {
-                "indexName": "commerce-cloud-tools",
-                "indexPathPrefix": "/commerce/cloud-tools/"
-            },
-            {
-                "indexName": "commerce-webapi",
-                "indexPathPrefix": "/commerce/webapi/"
-            },
-            {
-                "indexName": "commerce-php",
-                "indexPathPrefix": "/commerce/php/"
-            },
-            {
-                "indexName": "commerce-services",
-                "indexPathPrefix": "/commerce/services/"
-            },
-            {
-                "indexName": "commerce-frontend-core",
-                "indexPathPrefix": "/commerce/frontend-core/"
-            },
-            {
-                "indexName": "commerce-admin-developer",
-                "indexPathPrefix": "/commerce/admin-developer/"
-            },
-            {
-                "indexName": "commerce-xd-kits",
-                "indexPathPrefix": "/commerce-xd-kits/"
-            },
-            {
-                "indexName": "commerce-pwa-studio",
-                "indexPathPrefix": "/commerce/pwa-studio/"
-            },
-            {
-                "indexName": "franklin-commerce",
-                "indexPathPrefix": "/commerce/"
-            },
-            {
-                "indexName": "commerce-testing",
-                "indexPathPrefix": "/commerce/testing/"
-            },
-            {
-                "indexName": "commerce-extensibility",
-                "indexPathPrefix": "/commerce/extensibility/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Creative Cloud",
-        "productIndices": [
-            {
-                "indexName": "cc-developer-platform-pages",
-                "indexPathPrefix": "/creative-cloud/"
-            },
-            {
-                "indexName": "creative-cloud-libraries",
-                "indexPathPrefix": "/creative-cloud-libraries/"
-            },
-            {
-                "indexName": "cc-libraries-api",
-                "indexPathPrefix": "/creative-cloud-libraries/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Customer Journey Analytics",
-        "productIndices": [
-            {
-                "indexName": "cja-apis",
-                "indexPathPrefix": "/cja-apis/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Developer Enablement",
-        "productIndices": [
-            {
-                "indexName": "dep",
-                "indexPathPrefix": "/dep/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Dreamweaver",
-        "productIndices": [
-            {
-                "indexName": "dreamweaver",
-                "indexPathPrefix": "/dreamweaver/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Dreamweaver",
-        "productIndices": [
-            {
-                "indexName": "dreamweaver",
-                "indexPathPrefix": "/dreamweaver/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Photoshop",
-        "productIndices": [
-            {
-                "indexName": "photoshop",
-                "indexPathPrefix": "/photoshop/"
-            },
-            {
-                "indexName": "uxp-photoshop",
-                "indexPathPrefix": "/photoshop/uxp/2022/"
-            },
-            {
-                "indexName": "uxp-photoshop-2021",
-                "indexPathPrefix": "/photoshop/uxp/2021/"
-            },
-            {
-                "indexName": "cis-photoshop-api-docs",
-                "indexPathPrefix": "/photoshop/photoshop-api-docs/"
-            },
-            {
-                "indexName": "photoshop-api",
-                "indexPathPrefix": "/photoshop/api/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Substance 3D",
-        "productIndices": [
-            {
-                "indexName": "substance-3d-automation",
-                "indexPathPrefix": "/substance-3d-automation/docs/"
-            },
-            {
-                "indexName": "franklin-substance-3d-automation",
-                "indexPathPrefix": "/substance-3d-automation/"
-            },
-            {
-                "indexName": "franklin-substance-3d",
-                "indexPathPrefix": "/substance3d/"
-            },
-            {
-                "indexName": "franklin-substance-3d-sdk",
-                "indexPathPrefix": "/substance3d-sdk/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe I/O",
-        "productIndices": [
-            {
-                "indexName": "adobe-io-events",
-                "indexPathPrefix": "/events/docs/"
-            },
-            {
-                "indexName": "franklin-adobe-io-events",
-                "indexPathPrefix": "/events/"
-            },
-            {
-                "indexName": "adobe-io-runtime",
-                "indexPathPrefix": "/runtime/docs"
-            },
-            {
-                "indexName": "franklin-adobe-io-runtime",
-                "indexPathPrefix": "/runtime/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Developer Console",
-        "productIndices": [
-            {
-                "indexName": "adobe-dev-console",
-                "indexPathPrefix": "/developer-console/docs/"
-            },
-            {
-                "indexName": "franklin-adobe-dev-console",
-                "indexPathPrefix": "/developer-console/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Developer App Builder",
-        "productIndices": [
-            {
-                "indexName": "app-builder",
-                "indexPathPrefix": "/app-builder/docs/"
-            },
-            {
-                "indexName": "app-builder-template-registry",
-                "indexPathPrefix": "/app-builder-template-registry/"
-            },
-            {
-                "indexName": "graphql-mesh-gateway",
-                "indexPathPrefix": "/graphql-mesh-gateway/"
-            },
-            {
-                "indexName": "franklin-app-builder",
-                "indexPathPrefix": "/app-builder/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Lightroom",
-        "productIndices": [
-            {
-                "indexName": "franklin-lightroom",
-                "indexPathPrefix": "/lightroom/"
-            },
-            {
-                "indexName": "lightroom-public-apis",
-                "indexPathPrefix": "/lightroom/lightroom-api-docs/"
-            },
-            {
-                "indexName": "lightroom-classic",
-                "indexPathPrefix": "/lightroom-classic/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Document Services",
-        "productIndices": [
-            {
-                "indexName": "franklin-sign-api",
-                "indexPathPrefix": "/adobesign-api/"
-            },
-            {
-                "indexName": "document-services",
-                "indexPathPrefix": "/document-services/"
-            },
-            {
-                "indexName": "pdfservices-api-documentation",
-                "indexPathPrefix": "/document-services/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Experience Manager",
-        "productIndices": [
-            {
-                "indexName": "franklin-umapi",
-                "indexPathPrefix": "/umapi/"
-            },
-            {
-                "indexName": "franklin-audience-manager",
-                "indexPathPrefix": "/audience-manager/"
-            },
-            {
-                "indexName": "aem-developer-materials",
-                "indexPathPrefix": "/experience-manager/reference-materials/"
-            },
-            {
-                "indexName": "experience-manager-forms-cloud-service-developer-reference",
-                "indexPathPrefix": "/experience-manager-forms-cloud-service-developer-reference/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Experience Platform",
-        "productIndices": [
-            {
-                "indexName": "aep-mobile-sdkdocs",
-                "indexPathPrefix": "/client-sdks/"
-            },
-            {
-                "indexName": "experience-platform-apis",
-                "indexPathPrefix": "/experience-platform-apis/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Express",
-        "productIndices": [
-            {
-                "indexName": "express-for-developers",
-                "indexPathPrefix": "/express/"
-            },
-            {
-                "indexName": "create-embed-sdk",
-                "indexPathPrefix": "/express/embed-sdk/"
-            },
-            {
-                "indexName": "cc-everywhere",
-                "indexPathPrefix": "/express/embed-sdk/docs/"
-            },
-            {
-                "indexName": "express-add-ons",
-                "indexPathPrefix": "/express/add-ons/"
-            },
-            {
-                "indexName": "express-add-ons-docs",
-                "indexPathPrefix": "/express/add-ons/docs/"
-            },
-            {
-                "indexName": "express-add-on-apis",
-                "indexPathPrefix": "/express-add-on-apis/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Stock",
-        "productIndices": [
-            {
-                "indexName": "stock",
-                "indexPathPrefix": "/stock/"
-            },
-            {
-                "indexName": "stock-api-docs",
-                "indexPathPrefix": "/stock/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Illustrator",
-        "productIndices": [
-            {
-                "indexName": "illustrator",
-                "indexPathPrefix": "/illustrator/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe InDesign",
-        "productIndices": [
-            {
-                "indexName": "indesign",
-                "indexPathPrefix": "/indesign/"
-            },
-            {
-                "indexName": "uxp-indesign",
-                "indexPathPrefix": "/indesign/uxp/"
-            },
-            {
-                "indexName": "uxp-indesign-18-uxp",
-                "indexPathPrefix": "/indesign/uxp/reference/"
-            },
-            {
-                "indexName": "indesign-18-dom",
-                "indexPathPrefix": "/indesign/dom/"
-            } 
-        ]
-    },
-    {
-        "productName": "Adobe InDesign",
-        "productIndices": [
-            {
-                "indexName": "indesign",
-                "indexPathPrefix": "/indesign/"
-            },
-            {
-                "indexName": "uxp-indesign",
-                "indexPathPrefix": "/indesign/uxp/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Journey Optimizer",
-        "productIndices": [
-            {
-                "indexName": "journey-optimizer-apis",
-                "indexPathPrefix": "/journey-optimizer-apis/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Premiere Pro",
-        "productIndices": [
-            {
-                "indexName": "premiere-pro",
-                "indexPathPrefix": "/premiere-pro/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Target",
-        "productIndices": [
-            {
-                "indexName": "target-developers",
-                "indexPathPrefix": "/target/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Workfront",
-        "productIndices": [
-            {
-                "indexName": "wf-apis",
-                "indexPathPrefix": "/workfront/docs/"
-            },
-            {
-                "indexName": "workfront-api-explorer",
-                "indexPathPrefix": "/workfront/api-explorer/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe XD",
-        "productIndices": [
-            {
-                "indexName": "xd",
-                "indexPathPrefix": "/xd/"
-            },
-            {
-                "indexName": "uxp-xd",
-                "indexPathPrefix": "/xd/uxp/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe XMP",
-        "productIndices": [
-            {
-                "indexName": "xmp-docs",
-                "indexPathPrefix": "/xmp/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Developer Distribution",
-        "productIndices": [
-            {
-                "indexName": "franklin-developer-distribute",
-                "indexPathPrefix": "/developer-distribution/creative-cloud/"
-            },
-            {
-                "indexName": "developer-distribute",
-                "indexPathPrefix": "/developer-distribution/creative-cloud/docs/"
-            },
-            {
-                "indexName": "Developer-Distribution-Experience-Cloud",
-                "indexPathPrefix": "/developer-distribution/experience-cloud/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "UI Extensibility",
-        "productIndices": [
-            {
-                "indexName": "uix",
-                "indexPathPrefix": "/uix/docs/"
-            }
-        ]
-    },
-    {
-        "productName": "Adobe Status",
-        "productIndices": [
-            {
-                "indexName": "adobe-status",
-                "indexPathPrefix": "/adobe-status/"
-            }
-        ]
-    },
-    {
-        "productName": "AIO THEME EXAMPLE ONLY",
-        "productIndices": [
-            {
-                "indexName": "example",
-                "indexPathPrefix": "/example/"
-            }
-        ]
-    }
+	{
+		"productName": "AIO THEME EXAMPLE ONLY",
+		"productIndices": [
+			{
+				"indexName": "example",
+				"indexPathPrefix": "/example/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe After Effects",
+		"productIndices": [
+			{
+				"indexName": "after-effects",
+				"indexPathPrefix": "/after-effects/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Analytics",
+		"productIndices": [
+			{
+				"indexName": "analytics-2.0-apis",
+				"indexPathPrefix": "/analytics-apis/docs/2.0/"
+			},
+			{
+				"indexName": "analytics-1.4-apis",
+				"indexPathPrefix": "/analytics-apis/docs/1.4/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Animate",
+		"productIndices": [
+			{
+				"indexName": "animate",
+				"indexPathPrefix": "/animate/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Audition",
+		"productIndices": [
+			{
+				"indexName": "audition",
+				"indexPathPrefix": "/audition/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Bridge",
+		"productIndices": [
+			{
+				"indexName": "bridge",
+				"indexPathPrefix": "/bridge/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Cloud Manager",
+		"productIndices": [
+			{
+				"indexName": "cloudmanager-api-docs",
+				"indexPathPrefix": "/experience-cloud/cloud-manager/"
+			},
+			{
+				"indexName": "experience-manager-apis",
+				"indexPathPrefix": "/experience-cloud/experience-manager-apis/"
+			},
+			{
+				"indexName": "adobe-assurance-public-apis",
+				"indexPathPrefix": "/adobe-assurance-public-apis/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Commerce",
+		"productIndices": [
+			{
+				"indexName": "commerce-marketplace",
+				"indexPathPrefix": "/commerce/marketplace/"
+			},
+			{
+				"indexName": "commerce-contributor",
+				"indexPathPrefix": "/commerce/contributor/"
+			},
+			{
+				"indexName": "commerce-cloud-tools",
+				"indexPathPrefix": "/commerce/cloud-tools/"
+			},
+			{
+				"indexName": "commerce-webapi",
+				"indexPathPrefix": "/commerce/webapi/"
+			},
+			{
+				"indexName": "commerce-php",
+				"indexPathPrefix": "/commerce/php/"
+			},
+			{
+				"indexName": "commerce-services",
+				"indexPathPrefix": "/commerce/services/"
+			},
+			{
+				"indexName": "commerce-frontend-core",
+				"indexPathPrefix": "/commerce/frontend-core/"
+			},
+			{
+				"indexName": "commerce-admin-developer",
+				"indexPathPrefix": "/commerce/admin-developer/"
+			},
+			{
+				"indexName": "commerce-xd-kits",
+				"indexPathPrefix": "/commerce-xd-kits/"
+			},
+			{
+				"indexName": "commerce-pwa-studio",
+				"indexPathPrefix": "/commerce/pwa-studio/"
+			},
+			{
+				"indexName": "franklin-commerce",
+				"indexPathPrefix": "/commerce/"
+			},
+			{
+				"indexName": "commerce-testing",
+				"indexPathPrefix": "/commerce/testing/"
+			},
+			{
+				"indexName": "commerce-extensibility",
+				"indexPathPrefix": "/commerce/extensibility/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Creative Cloud",
+		"productIndices": [
+			{
+				"indexName": "cc-developer-platform-pages",
+				"indexPathPrefix": "/creative-cloud/"
+			},
+			{
+				"indexName": "creative-cloud-libraries",
+				"indexPathPrefix": "/creative-cloud-libraries/"
+			},
+			{
+				"indexName": "cc-libraries-api",
+				"indexPathPrefix": "/creative-cloud-libraries/docs/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Customer Journey Analytics",
+		"productIndices": [
+			{
+				"indexName": "cja-apis",
+				"indexPathPrefix": "/cja-apis/docs/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Developer App Builder",
+		"productIndices": [
+			{
+				"indexName": "app-builder",
+				"indexPathPrefix": "/app-builder/docs/"
+			},
+			{
+				"indexName": "app-builder-template-registry",
+				"indexPathPrefix": "/app-builder-template-registry/"
+			},
+			{
+				"indexName": "graphql-mesh-gateway",
+				"indexPathPrefix": "/graphql-mesh-gateway/"
+			},
+			{
+				"indexName": "franklin-app-builder",
+				"indexPathPrefix": "/app-builder/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Developer Console",
+		"productIndices": [
+			{
+				"indexName": "adobe-dev-console",
+				"indexPathPrefix": "/developer-console/docs/"
+			},
+			{
+				"indexName": "franklin-adobe-dev-console",
+				"indexPathPrefix": "/developer-console/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Developer Distribution",
+		"productIndices": [
+			{
+				"indexName": "franklin-developer-distribute",
+				"indexPathPrefix": "/developer-distribution/creative-cloud/"
+			},
+			{
+				"indexName": "developer-distribute",
+				"indexPathPrefix": "/developer-distribution/creative-cloud/docs/"
+			},
+			{
+				"indexName": "Developer-Distribution-Experience-Cloud",
+				"indexPathPrefix": "/developer-distribution/experience-cloud/docs/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Developer Enablement",
+		"productIndices": [
+			{
+				"indexName": "dep",
+				"indexPathPrefix": "/dep/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Document Services",
+		"productIndices": [
+			{
+				"indexName": "franklin-sign-api",
+				"indexPathPrefix": "/adobesign-api/"
+			},
+			{
+				"indexName": "document-services",
+				"indexPathPrefix": "/document-services/"
+			},
+			{
+				"indexName": "pdfservices-api-documentation",
+				"indexPathPrefix": "/document-services/docs/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Dreamweaver",
+		"productIndices": [
+			{
+				"indexName": "dreamweaver",
+				"indexPathPrefix": "/dreamweaver/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Dreamweaver",
+		"productIndices": [
+			{
+				"indexName": "dreamweaver",
+				"indexPathPrefix": "/dreamweaver/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Experience Manager",
+		"productIndices": [
+			{
+				"indexName": "franklin-umapi",
+				"indexPathPrefix": "/umapi/"
+			},
+			{
+				"indexName": "franklin-audience-manager",
+				"indexPathPrefix": "/audience-manager/"
+			},
+			{
+				"indexName": "aem-developer-materials",
+				"indexPathPrefix": "/experience-manager/reference-materials/"
+			},
+			{
+				"indexName": "experience-manager-forms-cloud-service-developer-reference",
+				"indexPathPrefix": "/experience-manager-forms-cloud-service-developer-reference/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Experience Platform",
+		"productIndices": [
+			{
+				"indexName": "aep-mobile-sdkdocs",
+				"indexPathPrefix": "/client-sdks/"
+			},
+			{
+				"indexName": "experience-platform-apis",
+				"indexPathPrefix": "/experience-platform-apis/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Express",
+		"productIndices": [
+			{
+				"indexName": "express-for-developers",
+				"indexPathPrefix": "/express/"
+			},
+			{
+				"indexName": "create-embed-sdk",
+				"indexPathPrefix": "/express/embed-sdk/"
+			},
+			{
+				"indexName": "cc-everywhere",
+				"indexPathPrefix": "/express/embed-sdk/docs/"
+			},
+			{
+				"indexName": "express-add-ons",
+				"indexPathPrefix": "/express/add-ons/"
+			},
+			{
+				"indexName": "express-add-ons-docs",
+				"indexPathPrefix": "/express/add-ons/docs/"
+			},
+			{
+				"indexName": "express-add-on-apis",
+				"indexPathPrefix": "/express-add-on-apis/docs/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Firefly",
+		"productIndices": [
+			{
+				"indexName": "ff-services",
+				"indexPathPrefix": "/firefly-services/"
+			},
+			{
+				"indexName": "ff-services-docs",
+				"indexPathPrefix": "/firefly-services/docs/"
+			},
+			{
+				"indexName": "firefly-api-docs",
+				"indexPathPrefix": "/firefly-api/"
+			},
+			{
+				"indexName": "firefly-api-docs",
+				"indexPathPrefix": "/firefly-api/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe I/O",
+		"productIndices": [
+			{
+				"indexName": "adobe-io-events",
+				"indexPathPrefix": "/events/docs/"
+			},
+			{
+				"indexName": "franklin-adobe-io-events",
+				"indexPathPrefix": "/events/"
+			},
+			{
+				"indexName": "adobe-io-runtime",
+				"indexPathPrefix": "/runtime/docs"
+			},
+			{
+				"indexName": "franklin-adobe-io-runtime",
+				"indexPathPrefix": "/runtime/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Illustrator",
+		"productIndices": [
+			{
+				"indexName": "illustrator",
+				"indexPathPrefix": "/illustrator/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe InDesign",
+		"productIndices": [
+			{
+				"indexName": "indesign",
+				"indexPathPrefix": "/indesign/"
+			},
+			{
+				"indexName": "uxp-indesign",
+				"indexPathPrefix": "/indesign/uxp/"
+			},
+			{
+				"indexName": "uxp-indesign-18-uxp",
+				"indexPathPrefix": "/indesign/uxp/reference/"
+			},
+			{
+				"indexName": "indesign-18-dom",
+				"indexPathPrefix": "/indesign/dom/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe InDesign",
+		"productIndices": [
+			{
+				"indexName": "indesign",
+				"indexPathPrefix": "/indesign/"
+			},
+			{
+				"indexName": "uxp-indesign",
+				"indexPathPrefix": "/indesign/uxp/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Journey Optimizer",
+		"productIndices": [
+			{
+				"indexName": "journey-optimizer-apis",
+				"indexPathPrefix": "/journey-optimizer-apis/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Lightroom",
+		"productIndices": [
+			{
+				"indexName": "franklin-lightroom",
+				"indexPathPrefix": "/lightroom/"
+			},
+			{
+				"indexName": "lightroom-public-apis",
+				"indexPathPrefix": "/lightroom/lightroom-api-docs/"
+			},
+			{
+				"indexName": "lightroom-classic",
+				"indexPathPrefix": "/lightroom-classic/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Photoshop",
+		"productIndices": [
+			{
+				"indexName": "photoshop",
+				"indexPathPrefix": "/photoshop/"
+			},
+			{
+				"indexName": "uxp-photoshop",
+				"indexPathPrefix": "/photoshop/uxp/2022/"
+			},
+			{
+				"indexName": "uxp-photoshop-2021",
+				"indexPathPrefix": "/photoshop/uxp/2021/"
+			},
+			{
+				"indexName": "cis-photoshop-api-docs",
+				"indexPathPrefix": "/photoshop/photoshop-api-docs/"
+			},
+			{
+				"indexName": "photoshop-api",
+				"indexPathPrefix": "/photoshop/api/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Premiere Pro",
+		"productIndices": [
+			{
+				"indexName": "premiere-pro",
+				"indexPathPrefix": "/premiere-pro/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Status",
+		"productIndices": [
+			{
+				"indexName": "adobe-status",
+				"indexPathPrefix": "/adobe-status/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Stock",
+		"productIndices": [
+			{
+				"indexName": "stock",
+				"indexPathPrefix": "/stock/"
+			},
+			{
+				"indexName": "stock-api-docs",
+				"indexPathPrefix": "/stock/docs/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Substance 3D",
+		"productIndices": [
+			{
+				"indexName": "substance-3d-automation",
+				"indexPathPrefix": "/substance-3d-automation/docs/"
+			},
+			{
+				"indexName": "franklin-substance-3d-automation",
+				"indexPathPrefix": "/substance-3d-automation/"
+			},
+			{
+				"indexName": "franklin-substance-3d",
+				"indexPathPrefix": "/substance3d/"
+			},
+			{
+				"indexName": "franklin-substance-3d-sdk",
+				"indexPathPrefix": "/substance3d-sdk/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Target",
+		"productIndices": [
+			{
+				"indexName": "target-developers",
+				"indexPathPrefix": "/target/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Workfront",
+		"productIndices": [
+			{
+				"indexName": "wf-apis",
+				"indexPathPrefix": "/workfront/docs/"
+			},
+			{
+				"indexName": "workfront-api-explorer",
+				"indexPathPrefix": "/workfront/api-explorer/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe XD",
+		"productIndices": [
+			{
+				"indexName": "xd",
+				"indexPathPrefix": "/xd/"
+			},
+			{
+				"indexName": "uxp-xd",
+				"indexPathPrefix": "/xd/uxp/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe XMP",
+		"productIndices": [
+			{
+				"indexName": "xmp-docs",
+				"indexPathPrefix": "/xmp/docs/"
+			}
+		]
+	},
+	{
+		"productName": "UI Extensibility",
+		"productIndices": [
+			{
+				"indexName": "uix",
+				"indexPathPrefix": "/uix/docs/"
+			}
+		]
+	}
 ]
