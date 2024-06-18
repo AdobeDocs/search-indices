@@ -1,14 +1,5 @@
 [
 	{
-		"productName": "AIO THEME EXAMPLE ONLY",
-		"productIndices": [
-			{
-				"indexName": "example",
-				"indexPathPrefix": "/example/"
-			}
-		]
-	},
-	{
 		"productName": "Adobe After Effects",
 		"productIndices": [
 			{
@@ -325,10 +316,6 @@
 			{
 				"indexName": "ff-services-docs",
 				"indexPathPrefix": "/firefly-services/docs/"
-			},
-			{
-				"indexName": "firefly-api-docs",
-				"indexPathPrefix": "/firefly-api/"
 			},
 			{
 				"indexName": "firefly-api-docs",
