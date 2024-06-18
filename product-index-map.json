@@ -235,15 +235,6 @@
 		]
 	},
 	{
-		"productName": "Adobe Dreamweaver",
-		"productIndices": [
-			{
-				"indexName": "dreamweaver",
-				"indexPathPrefix": "/dreamweaver/"
-			}
-		]
-	},
-	{
 		"productName": "Adobe Experience Manager",
 		"productIndices": [
 			{
