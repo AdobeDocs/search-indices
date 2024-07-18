@@ -149,10 +149,23 @@
 		]
 	},
 	{
+		"productName": "Adobe C++",
+		"productIndices": [
+			{
+				"indexName": "cpp-at-adobe",
+				"indexPathPrefix": "/cpp/"
+			}
+		]
+	},
+	{
 		"productName": "Adobe Developer App Builder",
 		"productIndices": [
 			{
 				"indexName": "app-builder",
+				"indexPathPrefix": "/app-builder/docs/"
+			},
+			{
+				"indexName": "app-builder-trial",
 				"indexPathPrefix": "/app-builder/docs/"
 			},
 			{
