@@ -513,6 +513,15 @@
 		]
 	},
 	{
+		"productName": "Adobe VIP Marketplace",
+		"productIndices": [
+			{
+				"indexName": "VIPMP",
+				"indexPathPrefix": "/vipmp/"
+			}
+		]
+	},
+	{
 		"productName": "Adobe Workfront",
 		"productIndices": [
 			{
