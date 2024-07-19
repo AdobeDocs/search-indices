@@ -418,6 +418,15 @@
 		]
 	},
 	{
+		"productName": "Adobe Marketo",
+		"productIndices": [
+			{
+				"indexName": "marketo-apis",
+				"indexPathPrefix": "/marketo-apis/"
+			}
+		]
+	},
+	{
 		"productName": "Adobe Photoshop",
 		"productIndices": [
 			{
