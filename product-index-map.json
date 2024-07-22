@@ -328,6 +328,15 @@
 		]
 	},
 	{
+		"productName": "Adobe Globalization",
+		"productIndices": [
+			{
+				"indexName": "g11n-gcs",
+				"indexPathPrefix": "/gcs/"
+			}
+		]
+	},
+	{
 		"productName": "Adobe I/O",
 		"productIndices": [
 			{
