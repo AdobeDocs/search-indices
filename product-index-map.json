@@ -328,6 +328,15 @@
 		]
 	},
 	{
+		"productName": "Adobe Frame.io",
+		"productIndices": [
+			{
+				"indexName": "frameio-api",
+				"indexPathPrefix": "/frameio/"
+			}
+		]
+	},
+	{
 		"productName": "Adobe Globalization",
 		"productIndices": [
 			{
