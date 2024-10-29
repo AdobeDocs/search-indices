@@ -225,10 +225,6 @@
 		"productName": "Adobe Document Services",
 		"productIndices": [
 			{
-				"indexName": "franklin-sign-api",
-				"indexPathPrefix": "/adobesign-api/"
-			},
-			{
 				"indexName": "document-services",
 				"indexPathPrefix": "/document-services/"
 			},
