@@ -475,6 +475,10 @@
 			{
 				"indexName": "premiere-pro",
 				"indexPathPrefix": "/premiere-pro/"
+			},
+			{
+				"indexName": "uxp-premiere-pro",
+				"indexPathPrefix": "/premiere-pro/uxp/"
 			}
 		]
 	},
