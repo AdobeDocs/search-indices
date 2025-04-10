@@ -598,5 +598,14 @@
 				"indexPathPrefix": "/uix/docs/"
 			}
 		]
+	},
+	{
+		"productName": "Adobe Connect",
+		"productIndices": [
+			{
+				"indexName": "eds-adobe-connect-sdk",
+				"indexPathPrefix": "/adobe-connect-sdk/"
+			}
+		]
 	}
 ]
