@@ -136,6 +136,14 @@
 			{
 				"indexName": "cc-libraries-api",
 				"indexPathPrefix": "/creative-cloud-libraries/docs/"
+			},
+			{
+				"indexName": "eds-developer-champion",
+				"indexPathPrefix": "/developer-champion/"
+			},
+			{
+				"indexName": "eds-developers-live",
+				"indexPathPrefix": "/developers-live/"
 			}
 		]
 	},
@@ -363,6 +371,10 @@
 			{
 				"indexName": "franklin-adobe-io-runtime",
 				"indexPathPrefix": "/runtime/"
+			},
+			{
+				"indexName": "eds-open-source",
+				"indexPathPrefix": "/open/"
 			}
 		]
 	},
