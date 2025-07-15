@@ -332,6 +332,14 @@
 			{
 				"indexName": "firefly-api-docs",
 				"indexPathPrefix": "/firefly-api/"
+			},
+			{
+				"indexName": "ffs-photoshop-api",
+				"indexPathPrefix": "/firefly-services/docs/photoshop/"
+			},
+			{
+				"indexName": "ffs-s3d-api",
+				"indexPathPrefix": "/firefly-services/docs/s3dapi/"
 			}
 		]
 	},
