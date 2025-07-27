@@ -615,5 +615,14 @@
 				"indexPathPrefix": "/adobe-connect-sdk/"
 			}
 		]
+	},
+	{
+		"productName": "Adobe Developer Support",
+		"productIndices": [
+			{
+				"indexName": "eds-adobe-developer-support",
+				"indexPathPrefix": "/developer-support/"
+			}
+		]
 	}
 ]
