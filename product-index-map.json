@@ -624,5 +624,14 @@
 				"indexPathPrefix": "/developer-support/"
 			}
 		]
+	},
+	{
+		"productName": "Adobe PAAS API",
+		"productIndices": [
+			{
+				"indexName": "adobe-pass",
+				"indexPathPrefix": "/adobe-pass/"
+			}
+		]
 	}
 ]
