@@ -14,10 +14,6 @@
 			{
 				"indexName": "analytics-2.0-apis",
 				"indexPathPrefix": "/analytics-apis/docs/2.0/"
-			},
-			{
-				"indexName": "analytics-1.4-apis",
-				"indexPathPrefix": "/analytics-apis/docs/1.4/"
 			}
 		]
 	},
