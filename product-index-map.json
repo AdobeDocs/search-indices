@@ -173,10 +173,6 @@
 				"indexPathPrefix": "/app-builder/docs/"
 			},
 			{
-				"indexName": "app-builder-trial",
-				"indexPathPrefix": "/app-builder/docs/"
-			},
-			{
 				"indexName": "app-builder-template-registry",
 				"indexPathPrefix": "/app-builder-template-registry/"
 			},
