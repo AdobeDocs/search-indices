@@ -555,10 +555,6 @@
 		"productName": "Adobe Workfront",
 		"productIndices": [
 			{
-				"indexName": "wf-apis",
-				"indexPathPrefix": "/workfront/docs/"
-			},
-			{
 				"indexName": "workfront-api-explorer",
 				"indexPathPrefix": "/workfront/api-explorer/"
 			}
