@@ -303,10 +303,6 @@
 			{
 				"indexName": "express-add-ons-docs",
 				"indexPathPrefix": "/express/add-ons/docs/"
-			},
-			{
-				"indexName": "express-add-on-apis",
-				"indexPathPrefix": "/express-add-on-apis/docs/"
 			}
 		]
 	},
