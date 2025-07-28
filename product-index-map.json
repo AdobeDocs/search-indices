@@ -612,5 +612,14 @@
 				"indexPathPrefix": "/adobe-pass/"
 			}
 		]
+	},
+	{
+		"productName": "Adobe Compliance",
+		"productIndices": [
+			{
+				"indexName": "eds-compliance",
+				"indexPathPrefix": "/compliance/"
+			}
+		]
 	}
 ]
