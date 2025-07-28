@@ -336,6 +336,14 @@
 			{
 				"indexName": "ffs-s3d-api",
 				"indexPathPrefix": "/firefly-services/docs/s3dapi/"
+			},
+			{
+				"indexName": "ffs-translate-lipsync",
+				"indexPathPrefix": "/translate-lipsync/"
+			},
+			{
+				"indexName": "ffs-audio-video-api",
+				"indexPathPrefix": "/audio-video-firefly-services/"
 			}
 		]
 	},
