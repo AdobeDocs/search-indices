@@ -303,6 +303,10 @@
 			{
 				"indexName": "express-add-ons-docs",
 				"indexPathPrefix": "/express/add-ons/docs/"
+			},
+			{
+				"indexName": "eds-fund-for-design",
+				"indexPathPrefix": "/fund-for-design/"
 			}
 		]
 	},
