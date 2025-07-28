@@ -405,19 +405,6 @@
 		]
 	},
 	{
-		"productName": "Adobe InDesign",
-		"productIndices": [
-			{
-				"indexName": "indesign",
-				"indexPathPrefix": "/indesign/"
-			},
-			{
-				"indexName": "uxp-indesign",
-				"indexPathPrefix": "/indesign/uxp/"
-			}
-		]
-	},
-	{
 		"productName": "Adobe Journey Optimizer",
 		"productIndices": [
 			{
