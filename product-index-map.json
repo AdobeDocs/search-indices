@@ -560,6 +560,10 @@
 			{
 				"indexName": "workfront-api-explorer",
 				"indexPathPrefix": "/workfront/api-explorer/"
+			},
+			{
+				"indexName": "workfront-apis",
+				"indexPathPrefix": "/workfront-apis/"
 			}
 		]
 	},
