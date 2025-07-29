@@ -629,5 +629,14 @@
 				"indexPathPrefix": "/compliance/"
 			}
 		]
+	},
+	{
+		"productName": "Adobe Cloud Storage",
+		"productIndices": [
+			{
+				"indexName": "cloud-storage",
+				"indexPathPrefix": "/cloud-storage/"
+			}
+		]
 	}
 ]
