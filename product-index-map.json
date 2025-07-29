@@ -16,8 +16,8 @@
 				"indexPathPrefix": "/analytics-apis/docs/2.0/"
 			},
 			{
-				"indexName": "analytics-1.4-apis",
-				"indexPathPrefix": "/analytics-apis/docs/1.4/"
+				"indexName": "data-collection-apis-docs",
+				"indexPathPrefix": "/data-collection-apis/docs/"
 			}
 		]
 	},
@@ -173,10 +173,6 @@
 				"indexPathPrefix": "/app-builder/docs/"
 			},
 			{
-				"indexName": "app-builder-trial",
-				"indexPathPrefix": "/app-builder/docs/"
-			},
-			{
 				"indexName": "app-builder-template-registry",
 				"indexPathPrefix": "/app-builder-template-registry/"
 			},
@@ -313,8 +309,8 @@
 				"indexPathPrefix": "/express/add-ons/docs/"
 			},
 			{
-				"indexName": "express-add-on-apis",
-				"indexPathPrefix": "/express-add-on-apis/docs/"
+				"indexName": "eds-fund-for-design",
+				"indexPathPrefix": "/fund-for-design/"
 			}
 		]
 	},
@@ -340,6 +336,14 @@
 			{
 				"indexName": "ffs-s3d-api",
 				"indexPathPrefix": "/firefly-services/docs/s3dapi/"
+			},
+			{
+				"indexName": "ffs-translate-lipsync",
+				"indexPathPrefix": "/translate-lipsync/"
+			},
+			{
+				"indexName": "ffs-audio-video-api",
+				"indexPathPrefix": "/audio-video-firefly-services/"
 			}
 		]
 	},
@@ -413,19 +417,6 @@
 			{
 				"indexName": "indesign-18-dom",
 				"indexPathPrefix": "/indesign/dom/"
-			}
-		]
-	},
-	{
-		"productName": "Adobe InDesign",
-		"productIndices": [
-			{
-				"indexName": "indesign",
-				"indexPathPrefix": "/indesign/"
-			},
-			{
-				"indexName": "uxp-indesign",
-				"indexPathPrefix": "/indesign/uxp/"
 			}
 		]
 	},
@@ -567,12 +558,12 @@
 		"productName": "Adobe Workfront",
 		"productIndices": [
 			{
-				"indexName": "wf-apis",
-				"indexPathPrefix": "/workfront/docs/"
-			},
-			{
 				"indexName": "workfront-api-explorer",
 				"indexPathPrefix": "/workfront/api-explorer/"
+			},
+			{
+				"indexName": "workfront-apis",
+				"indexPathPrefix": "/workfront-apis/"
 			}
 		]
 	},
@@ -613,6 +604,42 @@
 			{
 				"indexName": "eds-adobe-connect-sdk",
 				"indexPathPrefix": "/adobe-connect-sdk/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Developer Support",
+		"productIndices": [
+			{
+				"indexName": "eds-adobe-developer-support",
+				"indexPathPrefix": "/developer-support/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Pass API",
+		"productIndices": [
+			{
+				"indexName": "adobe-pass",
+				"indexPathPrefix": "/adobe-pass/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Compliance",
+		"productIndices": [
+			{
+				"indexName": "eds-compliance",
+				"indexPathPrefix": "/compliance/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Cloud Storage",
+		"productIndices": [
+			{
+				"indexName": "cloud-storage",
+				"indexPathPrefix": "/cloud-storage/"
 			}
 		]
 	}
