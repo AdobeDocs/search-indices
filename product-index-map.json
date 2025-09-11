@@ -318,10 +318,6 @@
 		"productName": "Adobe Firefly",
 		"productIndices": [
 			{
-				"indexName": "ff-services",
-				"indexPathPrefix": "/firefly-services/"
-			},
-			{
 				"indexName": "ff-services-docs",
 				"indexPathPrefix": "/firefly-services/docs/"
 			},
