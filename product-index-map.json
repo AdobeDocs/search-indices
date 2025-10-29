@@ -334,6 +334,14 @@
 				"indexPathPrefix": "/firefly-services/docs/s3dapi/"
 			},
 			{
+				"indexName": "ffs-indesign-api",
+				"indexPathPrefix": "/firefly-services/docs/indesign-apis/"
+			},
+			{
+				"indexName": "ffs-lightroom-api",
+				"indexPathPrefix": "/firefly-services/docs/lightroom/"
+			},
+			{
 				"indexName": "ffs-translate-lipsync",
 				"indexPathPrefix": "/translate-lipsync/"
 			},
@@ -636,6 +644,15 @@
 			{
 				"indexName": "cloud-storage",
 				"indexPathPrefix": "/cloud-storage/"
+			}
+		]
+	},
+	{
+		"productName": "Adobe Admin API",
+		"productIndices": [
+			{
+				"indexName": "adobe-admin-api",
+				"indexPathPrefix": "/adobe-admin-apis-storage-management/"
 			}
 		]
 	}
